@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/misterbit-test/static/css/main.150b5309.chunk.css",
+    "main.css": "/misterbit-test/static/css/main.7900a44e.chunk.css",
     "main.js": "/misterbit-test/static/js/main.d3c81e63.chunk.js",
     "main.js.map": "/misterbit-test/static/js/main.d3c81e63.chunk.js.map",
     "runtime-main.js": "/misterbit-test/static/js/runtime-main.d4e14c2b.js",
@@ -8,9 +8,9 @@
     "static/js/2.c76e5fdb.chunk.js": "/misterbit-test/static/js/2.c76e5fdb.chunk.js",
     "static/js/2.c76e5fdb.chunk.js.map": "/misterbit-test/static/js/2.c76e5fdb.chunk.js.map",
     "index.html": "/misterbit-test/index.html",
-    "precache-manifest.797383b55353644fd4080c8396cb81fb.js": "/misterbit-test/precache-manifest.797383b55353644fd4080c8396cb81fb.js",
+    "precache-manifest.66d49fce239aef5d326f3c37edc6663e.js": "/misterbit-test/precache-manifest.66d49fce239aef5d326f3c37edc6663e.js",
     "service-worker.js": "/misterbit-test/service-worker.js",
-    "static/css/main.150b5309.chunk.css.map": "/misterbit-test/static/css/main.150b5309.chunk.css.map",
+    "static/css/main.7900a44e.chunk.css.map": "/misterbit-test/static/css/main.7900a44e.chunk.css.map",
     "static/js/2.c76e5fdb.chunk.js.LICENSE": "/misterbit-test/static/js/2.c76e5fdb.chunk.js.LICENSE",
     "static/media/global.scss": "/misterbit-test/static/media/locally-sourced-mobile.193324a1.jpg",
     "static/media/menu-item1.jpg": "/misterbit-test/static/media/menu-item1.c271854d.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.d4e14c2b.js",
     "static/js/2.c76e5fdb.chunk.js",
-    "static/css/main.150b5309.chunk.css",
+    "static/css/main.7900a44e.chunk.css",
     "static/js/main.d3c81e63.chunk.js"
   ]
 }

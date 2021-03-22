@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d8733aef6994baeea67351810050d3d",
+    "revision": "c817e52e4765184e98aeaf3ebc9a048f",
     "url": "/misterbit-test/index.html"
   },
   {
-    "revision": "9a3f4252ff6ea5d5205d",
-    "url": "/misterbit-test/static/css/main.150b5309.chunk.css"
+    "revision": "456bbbc98a8871854196",
+    "url": "/misterbit-test/static/css/main.7900a44e.chunk.css"
   },
   {
     "revision": "2c624e561630bba22438",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/misterbit-test/static/js/2.c76e5fdb.chunk.js.LICENSE"
   },
   {
-    "revision": "9a3f4252ff6ea5d5205d",
+    "revision": "456bbbc98a8871854196",
     "url": "/misterbit-test/static/js/main.d3c81e63.chunk.js"
   },
   {
