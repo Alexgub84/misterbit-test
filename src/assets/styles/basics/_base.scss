@@ -1,22 +1,31 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
-
 html {
-    font-family: Livvic;
+  font-family: Spartan-Regular;
+  color: #ffffff;
 }
 
 body {
-    
-    margin: 0;
+  margin: 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: Livvic;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Spartan-Bold;
+  margin: 0;
 }
-
 
 p {
-    margin: 0 0 1em;
+  margin: 0 0 1em;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }

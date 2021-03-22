@@ -8,15 +8,11 @@
 @import "basics/helpers.scss";
 @import "basics/layout.scss";
 @import "basics/base.scss";
-@import "basics/links.scss";
-@import "basics/buttons.scss";
 
 //pages
 @import "views/home-page";
 
-
 // Components
-@import "components/header.scss";
-@import "components/navbar.scss";
+@import "components/middle.scss";
+@import "components/highlights.scss";
 @import "components/footer.scss";
-

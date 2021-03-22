@@ -1,0 +1,25 @@
+.middle {
+  position: relative;
+
+  img {
+    content: url("../../images//homepage//locally-sourced-desktop.jpg");
+    width: 540px;
+    height: 720px;
+    position: absolute;
+    bottom: -80px;
+    right: 165px;
+  }
+}
+
+@media (max-width: 375px) {
+  .middle {
+    position: relative;
+
+    img {
+      content: url("../../images//homepage//locally-sourced-mobile.jpg");
+      width: 327px;
+      height: 400px;
+      position: relative;
+    }
+  }
+}
